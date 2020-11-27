@@ -6,7 +6,7 @@
   <link href="https://xxml.xyz/atom.xml" rel="self"/>
   
   <link href="https://xxml.xyz/"/>
-  <updated>2020-11-27T04:20:35.181Z</updated>
+  <updated>2020-11-27T16:57:43.169Z</updated>
   <id>https://xxml.xyz/</id>
   
   <author>
@@ -15,6 +15,94 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="https://xxml.xyz/2020/11/28/redis-bi-ji/"/>
+    <id>https://xxml.xyz/2020/11/28/redis-bi-ji/</id>
+    <published>2020-11-27T16:57:43.165Z</published>
+    <updated>2020-11-27T16:57:43.169Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Redis笔记&quot;&gt;&lt;a href=&quot;#Redis笔记&quot; class=&quot;headerlink&quot; title=&quot;Redis笔记&quot;&gt;&lt;/a&gt;Redis笔记&lt;/h1&gt;&lt;h2 id=&quot;常用命令&quot;&gt;&lt;a href=&quot;#常用命令&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Python之禅</title>
+    <link href="https://xxml.xyz/2020/11/28/python-zhi-shan/"/>
+    <id>https://xxml.xyz/2020/11/28/python-zhi-shan/</id>
+    <published>2020-11-27T16:57:43.077Z</published>
+    <updated>2020-11-27T16:57:43.081Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Zen-of-Python（Python之禅）&quot;&gt;&lt;a href=&quot;#Zen-of-Python（Python之禅）&quot; class=&quot;headerlink&quot; title=&quot;Zen of Python（Python之禅）&quot;&gt;&lt;/a&gt;Zen of</summary>
+        
+      
+    
+    
+    
+    <category term="-Python" scheme="https://xxml.xyz/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://xxml.xyz/2020/11/28/hello-world/"/>
+    <id>https://xxml.xyz/2020/11/28/hello-world/</id>
+    <published>2020-11-27T16:57:42.621Z</published>
+    <updated>2020-11-27T16:57:42.625Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://xxml.xyz/2020/11/28/dong-tai-gui-hua/"/>
+    <id>https://xxml.xyz/2020/11/28/dong-tai-gui-hua/</id>
+    <published>2020-11-27T16:57:40.933Z</published>
+    <updated>2020-11-27T16:57:40.941Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;动态规划&quot;&gt;&lt;a href=&quot;#动态规划&quot; class=&quot;headerlink&quot; title=&quot;动态规划&quot;&gt;&lt;/a&gt;动态规划&lt;/h1&gt;&lt;h2 id=&quot;判断动态规划&quot;&gt;&lt;a href=&quot;#判断动态规划&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>test</title>
@@ -30,33 +118,385 @@
   </entry>
   
   <entry>
-    <title>十大经典排序算法整理汇总（附代码）</title>
-    <link href="https://xxml.xyz/2020/02/16/sort-algorithms/"/>
-    <id>https://xxml.xyz/2020/02/16/sort-algorithms/</id>
-    <published>2020-02-16T07:09:23.000Z</published>
-    <updated>2020-11-27T02:03:48.423Z</updated>
+    <title>Python自定义排序</title>
+    <link href="https://xxml.xyz/2020/08/20/python-zi-ding-yi-pai-xu/"/>
+    <id>https://xxml.xyz/2020/08/20/python-zi-ding-yi-pai-xu/</id>
+    <published>2020-08-20T15:34:04.000Z</published>
+    <updated>2020-11-27T16:57:43.113Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;关注公众号【算法码上来】，每日算法干货马上就来！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/medias/contact.jpg&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot;</summary>
+    <summary type="html">&lt;h1 id=&quot;Python自定义排序&quot;&gt;&lt;a href=&quot;#Python自定义排序&quot; class=&quot;headerlink&quot;</summary>
         
       
     
     
     
-    <category term="编程算法" scheme="https://xxml.xyz/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
+    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
     
     
-    <category term="leetcode" scheme="https://xxml.xyz/tags/leetcode/"/>
+    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
     
-    <category term="算法" scheme="https://xxml.xyz/tags/%E7%AE%97%E6%B3%95/"/>
+  </entry>
+  
+  <entry>
+    <title>Celery 笔记</title>
+    <link href="https://xxml.xyz/2020/08/10/celery-bi-ji/"/>
+    <id>https://xxml.xyz/2020/08/10/celery-bi-ji/</id>
+    <published>2020-08-10T11:16:05.000Z</published>
+    <updated>2020-11-27T16:57:42.393Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Celery-笔记&quot;&gt;&lt;a href=&quot;#Celery-笔记&quot; class=&quot;headerlink&quot; title=&quot;Celery 笔记&quot;&gt;&lt;/a&gt;Celery 笔记&lt;/h1&gt;&lt;h2 id=&quot;一、什么是Celery&quot;&gt;&lt;a href=&quot;#一、什么是Celery&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Celery" scheme="https://xxml.xyz/categories/Celery/"/>
+    
+    
+    <category term="Celery" scheme="https://xxml.xyz/tags/Celery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python list, tuple的底层细节</title>
+    <link href="https://xxml.xyz/2020/08/10/pythonlistdict-de-di-ceng-xi-jie/"/>
+    <id>https://xxml.xyz/2020/08/10/pythonlistdict-de-di-ceng-xi-jie/</id>
+    <published>2020-08-10T06:34:04.000Z</published>
+    <updated>2020-11-27T16:57:43.145Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;列表和元组&quot;&gt;&lt;a href=&quot;#列表和元组&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RPC 入门</title>
+    <link href="https://xxml.xyz/2020/07/30/rpc-ru-men/"/>
+    <id>https://xxml.xyz/2020/07/30/rpc-ru-men/</id>
+    <published>2020-07-30T11:16:05.000Z</published>
+    <updated>2020-11-27T16:57:43.209Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一、什么是RPC&quot;&gt;&lt;a href=&quot;#一、什么是RPC&quot; class=&quot;headerlink&quot; title=&quot;一、什么是RPC&quot;&gt;&lt;/a&gt;一、什么是RPC&lt;/h1&gt;&lt;p&gt;RPC 的全称是 Remote Procedure Call</summary>
+        
+      
+    
+    
+    
+    <category term="RPC" scheme="https://xxml.xyz/categories/RPC/"/>
+    
+    
+    <category term="RPC" scheme="https://xxml.xyz/tags/RPC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mongodb 和 Redis 的区别</title>
+    <link href="https://xxml.xyz/2020/07/30/mongodb-he-redis-de-qu-bie/"/>
+    <id>https://xxml.xyz/2020/07/30/mongodb-he-redis-de-qu-bie/</id>
+    <published>2020-07-30T11:16:05.000Z</published>
+    <updated>2020-11-27T16:57:42.765Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Mongodb-和-Redis-的区别&quot;&gt;&lt;a href=&quot;#Mongodb-和-Redis-的区别&quot; class=&quot;headerlink&quot; title=&quot;Mongodb 和 Redis 的区别&quot;&gt;&lt;/a&gt;Mongodb 和 Redis</summary>
+        
+      
+    
+    
+    
+    <category term="数据库" scheme="https://xxml.xyz/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="Mongodb" scheme="https://xxml.xyz/tags/Mongodb/"/>
+    
+    <category term="Redis" scheme="https://xxml.xyz/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>消息队列-RabbitMQ</title>
+    <link href="https://xxml.xyz/2020/07/25/xiao-xi-dui-lie-rabbitmq/"/>
+    <id>https://xxml.xyz/2020/07/25/xiao-xi-dui-lie-rabbitmq/</id>
+    <published>2020-07-25T11:16:05.000Z</published>
+    <updated>2020-11-27T16:57:42.313Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一、什么是消息队列&quot;&gt;&lt;a href=&quot;#一、什么是消息队列&quot; class=&quot;headerlink&quot; title=&quot;一、什么是消息队列&quot;&gt;&lt;/a&gt;一、什么是消息队列&lt;/h1&gt;&lt;p&gt;​        MQ全称为Message Queue</summary>
+        
+      
+    
+    
+    
+    <category term="消息队列" scheme="https://xxml.xyz/categories/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/"/>
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    
+    <category term="RabbitMQ" scheme="https://xxml.xyz/tags/RabbitMQ/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>docker笔记</title>
+    <link href="https://xxml.xyz/2020/07/15/docker-bi-ji/"/>
+    <id>https://xxml.xyz/2020/07/15/docker-bi-ji/</id>
+    <published>2020-07-15T13:33:18.000Z</published>
+    <updated>2020-11-27T16:57:42.517Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;table bgcolor=&quot;#343a40&quot;&gt;
+    &lt;tbody&gt;&lt;tr&gt;
+        &lt;td&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="Docker" scheme="https://xxml.xyz/categories/Docker/"/>
+    
+    
+    <category term="Docker" scheme="https://xxml.xyz/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>django小结</title>
+    <link href="https://xxml.xyz/2020/07/01/django-xiao-jie/"/>
+    <id>https://xxml.xyz/2020/07/01/django-xiao-jie/</id>
+    <published>2020-07-01T06:34:04.000Z</published>
+    <updated>2020-11-27T16:57:42.433Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;django小结&quot;&gt;&lt;a href=&quot;#django小结&quot; class=&quot;headerlink&quot; title=&quot;django小结&quot;&gt;&lt;/a&gt;django小结&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    
+    <category term="Django" scheme="https://xxml.xyz/tags/Django/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python小结(七)</title>
+    <link href="https://xxml.xyz/2020/06/29/python-xiao-jie-qi/"/>
+    <id>https://xxml.xyz/2020/06/29/python-xiao-jie-qi/</id>
+    <published>2020-06-29T06:34:04.000Z</published>
+    <updated>2020-11-27T16:57:42.917Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;python小结-七&quot;&gt;&lt;a href=&quot;#python小结-七&quot; class=&quot;headerlink&quot; title=&quot;python小结(七)&quot;&gt;&lt;/a&gt;python小结(七)&lt;/h1&gt;&lt;h2 id=&quot;技术性问题&quot;&gt;&lt;a href=&quot;#技术性问题&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python小结(六)</title>
+    <link href="https://xxml.xyz/2020/06/26/python-xiao-jie-liu/"/>
+    <id>https://xxml.xyz/2020/06/26/python-xiao-jie-liu/</id>
+    <published>2020-06-26T06:34:04.000Z</published>
+    <updated>2020-11-27T16:57:42.869Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;python小结-六&quot;&gt;&lt;a href=&quot;#python小结-六&quot; class=&quot;headerlink&quot; title=&quot;python小结(六)&quot;&gt;&lt;/a&gt;python小结(六)&lt;/h1&gt;&lt;h3 id=&quot;正则&quot;&gt;&lt;a href=&quot;#正则&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python小结(五)</title>
+    <link href="https://xxml.xyz/2020/06/25/python-xiao-jie-wu/"/>
+    <id>https://xxml.xyz/2020/06/25/python-xiao-jie-wu/</id>
+    <published>2020-06-25T06:34:04.000Z</published>
+    <updated>2020-11-27T16:57:43.013Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;python小结-五&quot;&gt;&lt;a href=&quot;#python小结-五&quot; class=&quot;headerlink&quot; title=&quot;python小结(五)&quot;&gt;&lt;/a&gt;python小结(五)&lt;/h1&gt;&lt;h5</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python小结(四)</title>
+    <link href="https://xxml.xyz/2020/06/24/python-xiao-jie-si/"/>
+    <id>https://xxml.xyz/2020/06/24/python-xiao-jie-si/</id>
+    <published>2020-06-24T06:34:04.000Z</published>
+    <updated>2020-11-27T16:57:42.985Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;python小结-四&quot;&gt;&lt;a href=&quot;#python小结-四&quot; class=&quot;headerlink&quot; title=&quot;python小结(四)&quot;&gt;&lt;/a&gt;python小结(四)&lt;/h1&gt;&lt;h2 id=&quot;列表&quot;&gt;&lt;a href=&quot;#列表&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python小结(三)</title>
+    <link href="https://xxml.xyz/2020/06/22/python-xiao-jie-san/"/>
+    <id>https://xxml.xyz/2020/06/22/python-xiao-jie-san/</id>
+    <published>2020-06-22T06:34:04.000Z</published>
+    <updated>2020-11-27T16:57:42.953Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;python小结-三&quot;&gt;&lt;a href=&quot;#python小结-三&quot; class=&quot;headerlink&quot; title=&quot;python小结(三)&quot;&gt;&lt;/a&gt;python小结(三)&lt;/h1&gt;&lt;h1 id=&quot;字符串相关操作&quot;&gt;&lt;a href=&quot;#字符串相关操作&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python小结(二)</title>
+    <link href="https://xxml.xyz/2020/06/21/python-xiao-jie-er/"/>
+    <id>https://xxml.xyz/2020/06/21/python-xiao-jie-er/</id>
+    <published>2020-06-21T06:34:04.000Z</published>
+    <updated>2020-11-27T16:57:42.837Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;python小结-二&quot;&gt;&lt;a href=&quot;#python小结-二&quot; class=&quot;headerlink&quot; title=&quot;python小结(二)&quot;&gt;&lt;/a&gt;python小结(二)&lt;/h1&gt;&lt;h1 id=&quot;语言特性和编码规范&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python小结(一)</title>
+    <link href="https://xxml.xyz/2020/06/20/python-xiao-jie-yi/"/>
+    <id>https://xxml.xyz/2020/06/20/python-xiao-jie-yi/</id>
+    <published>2020-06-20T06:34:04.000Z</published>
+    <updated>2020-11-27T16:57:43.045Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;python小结-一&quot;&gt;&lt;a href=&quot;#python小结-一&quot; class=&quot;headerlink&quot; title=&quot;python小结(一)&quot;&gt;&lt;/a&gt;python小结(一)&lt;/h1&gt;&lt;h2 id=&quot;1-列出几个常用Python标准库&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
     
   </entry>
   
