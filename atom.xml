@@ -3,62 +3,60 @@
   <title>要多吃鱼</title>
   
   <subtitle>个人笔记</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="https://xxml.xyz/atom.xml" rel="self"/>
   
-  <link href="https://xxml.com/"/>
+  <link href="https://xxml.xyz/"/>
   <updated>2020-11-27T04:20:35.181Z</updated>
-  <id>https://xxml.com/</id>
+  <id>https://xxml.xyz/</id>
   
   <author>
     <name>毛雷</name>
     
   </author>
   
-  <generator uri="http://hexo.io/">Hexo</generator>
+  <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>test</title>
-    <link href="https://xxml.com/2020/11/27/test/"/>
-    <id>https://xxml.com/2020/11/27/test/</id>
+    <link href="https://xxml.xyz/2020/11/27/test/"/>
+    <id>https://xxml.xyz/2020/11/27/test/</id>
     <published>2020-11-27T04:20:35.000Z</published>
     <updated>2020-11-27T04:20:35.181Z</updated>
     
-    <summary type="html">
     
-    </summary>
+    
     
     
   </entry>
   
   <entry>
     <title>十大经典排序算法整理汇总（附代码）</title>
-    <link href="https://xxml.com/2020/02/16/sort-algorithms/"/>
-    <id>https://xxml.com/2020/02/16/sort-algorithms/</id>
+    <link href="https://xxml.xyz/2020/02/16/sort-algorithms/"/>
+    <id>https://xxml.xyz/2020/02/16/sort-algorithms/</id>
     <published>2020-02-16T07:09:23.000Z</published>
     <updated>2020-11-27T02:03:48.423Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;blockquote&gt;
+    <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;关注公众号【算法码上来】，每日算法干货马上就来！&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/medias/contact.jpg&quot; alt&gt;&lt;/p&gt;
-&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot;
+&lt;p&gt;&lt;img src=&quot;/medias/contact.jpg&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot;</summary>
         
       
     
-    </summary>
-    
-      <category term="编程算法" scheme="https://xxml.com/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
     
     
-      <category term="leetcode" scheme="https://xxml.com/tags/leetcode/"/>
+    <category term="编程算法" scheme="https://xxml.xyz/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/"/>
     
-      <category term="算法" scheme="https://xxml.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+    <category term="leetcode" scheme="https://xxml.xyz/tags/leetcode/"/>
+    
+    <category term="算法" scheme="https://xxml.xyz/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   

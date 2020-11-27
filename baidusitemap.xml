@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://xxml.com/2020/11/27/test/</loc>
-    <lastmod>2020-11-27</lastmod>
-  </url>  <url>
-    <loc>https://xxml.com/2020/02/16/sort-algorithms/</loc>
+    <loc>https://xxml.xyz/2020/11/27/test/</loc>
     <lastmod>2020-11-27</lastmod>
   </url>
-</urlset>
+  <url>
+    <loc>https://xxml.xyz/2020/02/16/sort-algorithms/</loc>
+    <lastmod>2020-11-27</lastmod>
+  </url>
+</urlset> 
