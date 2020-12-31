@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://xxml.xyz/2020/12/31/jupyter-shi-jian/</loc>
+    
+    <lastmod>2020-12-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xxml.xyz/2020/12/31/demo/</loc>
+    
+    <lastmod>2020-12-31</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://xxml.xyz/2020/05/05/ubuntu-xia-docker-shi-jian/</loc>
     
     <lastmod>2020-11-27</lastmod>
@@ -382,7 +396,7 @@
 
   <url>
     <loc>https://xxml.xyz/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -390,147 +404,147 @@
   
   <url>
     <loc>https://xxml.xyz/tags/leetcode/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/Celery/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/docker/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/git/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/Linux/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/Python/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/python/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/RPC/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/Django/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/Docker/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/Git/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/Mongodb/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/Redis/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/mysql/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/%E4%BA%91%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/%E8%AF%8D%E4%BA%91/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/%E7%88%AC%E8%99%AB/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/RabbitMQ/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -539,133 +553,133 @@
   
   <url>
     <loc>https://xxml.xyz/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/Celery/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/docker/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/git/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/Linux/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/Python/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/%E7%BC%96%E7%A8%8B/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/RPC/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/Python/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/Docker/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/%E4%BA%91%E5%BC%80%E5%8F%91/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/python/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/B%E7%AB%99/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/python/%E7%88%AC%E8%99%AB/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://xxml.xyz/categories/python/%E7%88%AC%E8%99%AB/%E8%AF%8D%E4%BA%91/</loc>
-    <lastmod>2020-11-27</lastmod>
+    <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

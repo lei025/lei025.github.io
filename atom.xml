@@ -6,7 +6,7 @@
   <link href="https://xxml.xyz/atom.xml" rel="self"/>
   
   <link href="https://xxml.xyz/"/>
-  <updated>2020-11-27T16:57:43.169Z</updated>
+  <updated>2020-12-31T07:51:46.927Z</updated>
   <id>https://xxml.xyz/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>demo</title>
+    <link href="https://xxml.xyz/2020/12/31/demo/"/>
+    <id>https://xxml.xyz/2020/12/31/demo/</id>
+    <published>2020-12-31T07:51:46.000Z</published>
+    <updated>2020-12-31T07:51:46.927Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://xxml.xyz/2020/12/31/jupyter-shi-jian/"/>
+    <id>https://xxml.xyz/2020/12/31/jupyter-shi-jian/</id>
+    <published>2020-12-31T05:54:54.542Z</published>
+    <updated>2020-12-31T07:53:06.705Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;title: jupyter 实践&lt;br&gt;top: false&lt;br&gt;cover: false&lt;br&gt;toc: true&lt;br&gt;mathjax: true&lt;br&gt;date: 2020-12-31 15:51:46&lt;br&gt;password:&lt;br&gt;summary:</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title></title>
@@ -438,56 +472,6 @@
         
         
     <summary type="html">&lt;h1 id=&quot;python小结-三&quot;&gt;&lt;a href=&quot;#python小结-三&quot; class=&quot;headerlink&quot; title=&quot;python小结(三)&quot;&gt;&lt;/a&gt;python小结(三)&lt;/h1&gt;&lt;h1 id=&quot;字符串相关操作&quot;&gt;&lt;a href=&quot;#字符串相关操作&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
-    
-    
-    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>python小结(二)</title>
-    <link href="https://xxml.xyz/2020/06/21/python-xiao-jie-er/"/>
-    <id>https://xxml.xyz/2020/06/21/python-xiao-jie-er/</id>
-    <published>2020-06-21T06:34:04.000Z</published>
-    <updated>2020-11-27T16:57:42.837Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;python小结-二&quot;&gt;&lt;a href=&quot;#python小结-二&quot; class=&quot;headerlink&quot; title=&quot;python小结(二)&quot;&gt;&lt;/a&gt;python小结(二)&lt;/h1&gt;&lt;h1 id=&quot;语言特性和编码规范&quot;&gt;&lt;a</summary>
-        
-      
-    
-    
-    
-    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
-    
-    
-    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>python小结(一)</title>
-    <link href="https://xxml.xyz/2020/06/20/python-xiao-jie-yi/"/>
-    <id>https://xxml.xyz/2020/06/20/python-xiao-jie-yi/</id>
-    <published>2020-06-20T06:34:04.000Z</published>
-    <updated>2020-11-27T16:57:43.045Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;python小结-一&quot;&gt;&lt;a href=&quot;#python小结-一&quot; class=&quot;headerlink&quot; title=&quot;python小结(一)&quot;&gt;&lt;/a&gt;python小结(一)&lt;/h1&gt;&lt;h2 id=&quot;1-列出几个常用Python标准库&quot;&gt;&lt;a</summary>
         
       
     
