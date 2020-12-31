@@ -403,20 +403,6 @@
 
   
   <url>
-    <loc>https://xxml.xyz/tags/leetcode/</loc>
-    <lastmod>2020-12-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://xxml.xyz/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2020-12-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xxml.xyz/tags/Celery/</loc>
     <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
@@ -445,14 +431,14 @@
   </url>
   
   <url>
-    <loc>https://xxml.xyz/tags/Python/</loc>
+    <loc>https://xxml.xyz/tags/python/</loc>
     <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://xxml.xyz/tags/python/</loc>
+    <loc>https://xxml.xyz/tags/Python/</loc>
     <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -466,7 +452,7 @@
   </url>
   
   <url>
-    <loc>https://xxml.xyz/tags/Django/</loc>
+    <loc>https://xxml.xyz/tags/Git/</loc>
     <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -480,7 +466,7 @@
   </url>
   
   <url>
-    <loc>https://xxml.xyz/tags/Git/</loc>
+    <loc>https://xxml.xyz/tags/Django/</loc>
     <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -501,7 +487,14 @@
   </url>
   
   <url>
-    <loc>https://xxml.xyz/tags/mysql/</loc>
+    <loc>https://xxml.xyz/tags/leetcode/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xxml.xyz/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -509,6 +502,13 @@
   
   <url>
     <loc>https://xxml.xyz/tags/%E4%BA%91%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xxml.xyz/tags/mysql/</loc>
     <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -549,14 +549,14 @@
     <priority>0.6</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://xxml.xyz/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://xxml.xyz/tags/jupyter/</loc>
     <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
+  
+
   
   <url>
     <loc>https://xxml.xyz/categories/Celery/</loc>
@@ -587,14 +587,14 @@
   </url>
   
   <url>
-    <loc>https://xxml.xyz/categories/Python/</loc>
+    <loc>https://xxml.xyz/categories/%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://xxml.xyz/categories/%E7%BC%96%E7%A8%8B/</loc>
+    <loc>https://xxml.xyz/categories/Python/</loc>
     <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -608,13 +608,6 @@
   </url>
   
   <url>
-    <loc>https://xxml.xyz/categories/Python/</loc>
-    <lastmod>2020-12-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://xxml.xyz/categories/Docker/</loc>
     <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
@@ -622,7 +615,21 @@
   </url>
   
   <url>
+    <loc>https://xxml.xyz/categories/Python/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://xxml.xyz/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xxml.xyz/categories/%E7%BC%96%E7%A8%8B%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -679,6 +686,13 @@
   
   <url>
     <loc>https://xxml.xyz/categories/python/%E7%88%AC%E8%99%AB/%E8%AF%8D%E4%BA%91/</loc>
+    <lastmod>2020-12-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://xxml.xyz/categories/jupyter/</loc>
     <lastmod>2020-12-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
