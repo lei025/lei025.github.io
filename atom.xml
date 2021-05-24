@@ -3,11 +3,11 @@
   <title>要多吃鱼</title>
   
   <subtitle>个人笔记</subtitle>
-  <link href="https://xxml.xyz/atom.xml" rel="self"/>
+  <link href="https://maolei.club/atom.xml" rel="self"/>
   
-  <link href="https://xxml.xyz/"/>
-  <updated>2020-12-31T07:51:46.927Z</updated>
-  <id>https://xxml.xyz/</id>
+  <link href="https://maolei.club/"/>
+  <updated>2021-01-06T09:22:08.867Z</updated>
+  <id>https://maolei.club/</id>
   
   <author>
     <name>毛雷</name>
@@ -18,46 +18,29 @@
   
   <entry>
     <title>demo</title>
-    <link href="https://xxml.xyz/2020/12/31/demo/"/>
-    <id>https://xxml.xyz/2020/12/31/demo/</id>
+    <link href="https://maolei.club/2020/12/31/demo/"/>
+    <id>https://maolei.club/2020/12/31/demo/</id>
     <published>2020-12-31T07:51:46.000Z</published>
-    <updated>2020-12-31T07:51:46.927Z</updated>
-    
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>jupyter 实践</title>
-    <link href="https://xxml.xyz/2020/12/31/jupyter-shi-jian/"/>
-    <id>https://xxml.xyz/2020/12/31/jupyter-shi-jian/</id>
-    <published>2020-12-31T07:51:46.000Z</published>
-    <updated>2020-12-31T07:59:03.320Z</updated>
+    <updated>2021-01-06T09:22:08.867Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;jupyter&quot;&gt;&lt;a href=&quot;#jupyter&quot; class=&quot;headerlink&quot;</summary>
+    <summary type="html">&lt;pre class=&quot;line-numbers language-html&quot; data-language=&quot;html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;&amp;lt;!-- i/o used</summary>
         
       
     
     
     
-    <category term="jupyter" scheme="https://xxml.xyz/categories/jupyter/"/>
-    
-    
-    <category term="jupyter" scheme="https://xxml.xyz/tags/jupyter/"/>
     
   </entry>
   
   <entry>
     <title></title>
-    <link href="https://xxml.xyz/2020/11/28/redis-bi-ji/"/>
-    <id>https://xxml.xyz/2020/11/28/redis-bi-ji/</id>
+    <link href="https://maolei.club/2020/11/28/redis-bi-ji/"/>
+    <id>https://maolei.club/2020/11/28/redis-bi-ji/</id>
     <published>2020-11-27T16:57:43.165Z</published>
     <updated>2020-11-27T16:57:43.169Z</updated>
     
@@ -77,8 +60,8 @@
   
   <entry>
     <title>Python之禅</title>
-    <link href="https://xxml.xyz/2020/11/28/python-zhi-shan/"/>
-    <id>https://xxml.xyz/2020/11/28/python-zhi-shan/</id>
+    <link href="https://maolei.club/2020/11/28/python-zhi-shan/"/>
+    <id>https://maolei.club/2020/11/28/python-zhi-shan/</id>
     <published>2020-11-27T16:57:43.077Z</published>
     <updated>2020-11-27T16:57:43.081Z</updated>
     
@@ -93,17 +76,17 @@
     
     
     
-    <category term="-Python" scheme="https://xxml.xyz/categories/Python/"/>
+    <category term="-Python" scheme="https://maolei.club/categories/Python/"/>
     
     
-    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    <category term="Python" scheme="https://maolei.club/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://xxml.xyz/2020/11/28/hello-world/"/>
-    <id>https://xxml.xyz/2020/11/28/hello-world/</id>
+    <link href="https://maolei.club/2020/11/28/hello-world/"/>
+    <id>https://maolei.club/2020/11/28/hello-world/</id>
     <published>2020-11-27T16:57:42.621Z</published>
     <updated>2020-11-27T16:57:42.625Z</updated>
     
@@ -123,8 +106,8 @@
   
   <entry>
     <title></title>
-    <link href="https://xxml.xyz/2020/11/28/dong-tai-gui-hua/"/>
-    <id>https://xxml.xyz/2020/11/28/dong-tai-gui-hua/</id>
+    <link href="https://maolei.club/2020/11/28/dong-tai-gui-hua/"/>
+    <id>https://maolei.club/2020/11/28/dong-tai-gui-hua/</id>
     <published>2020-11-27T16:57:40.933Z</published>
     <updated>2020-11-27T16:57:40.941Z</updated>
     
@@ -144,8 +127,8 @@
   
   <entry>
     <title>test</title>
-    <link href="https://xxml.xyz/2020/11/27/test/"/>
-    <id>https://xxml.xyz/2020/11/27/test/</id>
+    <link href="https://maolei.club/2020/11/27/test/"/>
+    <id>https://maolei.club/2020/11/27/test/</id>
     <published>2020-11-27T04:20:35.000Z</published>
     <updated>2020-11-27T04:20:35.181Z</updated>
     
@@ -157,8 +140,8 @@
   
   <entry>
     <title>Python自定义排序</title>
-    <link href="https://xxml.xyz/2020/08/20/python-zi-ding-yi-pai-xu/"/>
-    <id>https://xxml.xyz/2020/08/20/python-zi-ding-yi-pai-xu/</id>
+    <link href="https://maolei.club/2020/08/20/python-zi-ding-yi-pai-xu/"/>
+    <id>https://maolei.club/2020/08/20/python-zi-ding-yi-pai-xu/</id>
     <published>2020-08-20T15:34:04.000Z</published>
     <updated>2020-11-27T16:57:43.113Z</updated>
     
@@ -173,17 +156,17 @@
     
     
     
-    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    <category term="Python" scheme="https://maolei.club/categories/Python/"/>
     
     
-    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    <category term="Python" scheme="https://maolei.club/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>Celery 笔记</title>
-    <link href="https://xxml.xyz/2020/08/10/celery-bi-ji/"/>
-    <id>https://xxml.xyz/2020/08/10/celery-bi-ji/</id>
+    <link href="https://maolei.club/2020/08/10/celery-bi-ji/"/>
+    <id>https://maolei.club/2020/08/10/celery-bi-ji/</id>
     <published>2020-08-10T11:16:05.000Z</published>
     <updated>2020-11-27T16:57:42.393Z</updated>
     
@@ -198,17 +181,17 @@
     
     
     
-    <category term="Celery" scheme="https://xxml.xyz/categories/Celery/"/>
+    <category term="Celery" scheme="https://maolei.club/categories/Celery/"/>
     
     
-    <category term="Celery" scheme="https://xxml.xyz/tags/Celery/"/>
+    <category term="Celery" scheme="https://maolei.club/tags/Celery/"/>
     
   </entry>
   
   <entry>
     <title>python list, tuple的底层细节</title>
-    <link href="https://xxml.xyz/2020/08/10/pythonlistdict-de-di-ceng-xi-jie/"/>
-    <id>https://xxml.xyz/2020/08/10/pythonlistdict-de-di-ceng-xi-jie/</id>
+    <link href="https://maolei.club/2020/08/10/pythonlistdict-de-di-ceng-xi-jie/"/>
+    <id>https://maolei.club/2020/08/10/pythonlistdict-de-di-ceng-xi-jie/</id>
     <published>2020-08-10T06:34:04.000Z</published>
     <updated>2020-11-27T16:57:43.145Z</updated>
     
@@ -223,17 +206,17 @@
     
     
     
-    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    <category term="Python" scheme="https://maolei.club/categories/Python/"/>
     
     
-    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    <category term="Python" scheme="https://maolei.club/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>RPC 入门</title>
-    <link href="https://xxml.xyz/2020/07/30/rpc-ru-men/"/>
-    <id>https://xxml.xyz/2020/07/30/rpc-ru-men/</id>
+    <link href="https://maolei.club/2020/07/30/rpc-ru-men/"/>
+    <id>https://maolei.club/2020/07/30/rpc-ru-men/</id>
     <published>2020-07-30T11:16:05.000Z</published>
     <updated>2020-11-27T16:57:43.209Z</updated>
     
@@ -248,17 +231,17 @@
     
     
     
-    <category term="RPC" scheme="https://xxml.xyz/categories/RPC/"/>
+    <category term="RPC" scheme="https://maolei.club/categories/RPC/"/>
     
     
-    <category term="RPC" scheme="https://xxml.xyz/tags/RPC/"/>
+    <category term="RPC" scheme="https://maolei.club/tags/RPC/"/>
     
   </entry>
   
   <entry>
     <title>Mongodb 和 Redis 的区别</title>
-    <link href="https://xxml.xyz/2020/07/30/mongodb-he-redis-de-qu-bie/"/>
-    <id>https://xxml.xyz/2020/07/30/mongodb-he-redis-de-qu-bie/</id>
+    <link href="https://maolei.club/2020/07/30/mongodb-he-redis-de-qu-bie/"/>
+    <id>https://maolei.club/2020/07/30/mongodb-he-redis-de-qu-bie/</id>
     <published>2020-07-30T11:16:05.000Z</published>
     <updated>2020-11-27T16:57:42.765Z</updated>
     
@@ -273,19 +256,19 @@
     
     
     
-    <category term="数据库" scheme="https://xxml.xyz/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <category term="数据库" scheme="https://maolei.club/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
     
-    <category term="Mongodb" scheme="https://xxml.xyz/tags/Mongodb/"/>
+    <category term="Mongodb" scheme="https://maolei.club/tags/Mongodb/"/>
     
-    <category term="Redis" scheme="https://xxml.xyz/tags/Redis/"/>
+    <category term="Redis" scheme="https://maolei.club/tags/Redis/"/>
     
   </entry>
   
   <entry>
     <title>消息队列-RabbitMQ</title>
-    <link href="https://xxml.xyz/2020/07/25/xiao-xi-dui-lie-rabbitmq/"/>
-    <id>https://xxml.xyz/2020/07/25/xiao-xi-dui-lie-rabbitmq/</id>
+    <link href="https://maolei.club/2020/07/25/xiao-xi-dui-lie-rabbitmq/"/>
+    <id>https://maolei.club/2020/07/25/xiao-xi-dui-lie-rabbitmq/</id>
     <published>2020-07-25T11:16:05.000Z</published>
     <updated>2020-11-27T16:57:42.313Z</updated>
     
@@ -300,21 +283,21 @@
     
     
     
-    <category term="消息队列" scheme="https://xxml.xyz/categories/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/"/>
+    <category term="消息队列" scheme="https://maolei.club/categories/%E6%B6%88%E6%81%AF%E9%98%9F%E5%88%97/"/>
     
     
-    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    <category term="Python" scheme="https://maolei.club/tags/Python/"/>
     
-    <category term="RabbitMQ" scheme="https://xxml.xyz/tags/RabbitMQ/"/>
+    <category term="RabbitMQ" scheme="https://maolei.club/tags/RabbitMQ/"/>
     
   </entry>
   
   <entry>
     <title>docker笔记</title>
-    <link href="https://xxml.xyz/2020/07/15/docker-bi-ji/"/>
-    <id>https://xxml.xyz/2020/07/15/docker-bi-ji/</id>
+    <link href="https://maolei.club/2020/07/15/docker-bi-ji/"/>
+    <id>https://maolei.club/2020/07/15/docker-bi-ji/</id>
     <published>2020-07-15T13:33:18.000Z</published>
-    <updated>2020-11-27T16:57:42.517Z</updated>
+    <updated>2021-01-08T01:30:45.131Z</updated>
     
     
       
@@ -329,17 +312,17 @@
     
     
     
-    <category term="Docker" scheme="https://xxml.xyz/categories/Docker/"/>
+    <category term="Docker" scheme="https://maolei.club/categories/Docker/"/>
     
     
-    <category term="Docker" scheme="https://xxml.xyz/tags/Docker/"/>
+    <category term="Docker" scheme="https://maolei.club/tags/Docker/"/>
     
   </entry>
   
   <entry>
     <title>django小结</title>
-    <link href="https://xxml.xyz/2020/07/01/django-xiao-jie/"/>
-    <id>https://xxml.xyz/2020/07/01/django-xiao-jie/</id>
+    <link href="https://maolei.club/2020/07/01/django-xiao-jie/"/>
+    <id>https://maolei.club/2020/07/01/django-xiao-jie/</id>
     <published>2020-07-01T06:34:04.000Z</published>
     <updated>2020-11-27T16:57:42.433Z</updated>
     
@@ -354,19 +337,19 @@
     
     
     
-    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    <category term="Python" scheme="https://maolei.club/categories/Python/"/>
     
     
-    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    <category term="Python" scheme="https://maolei.club/tags/Python/"/>
     
-    <category term="Django" scheme="https://xxml.xyz/tags/Django/"/>
+    <category term="Django" scheme="https://maolei.club/tags/Django/"/>
     
   </entry>
   
   <entry>
     <title>python小结(七)</title>
-    <link href="https://xxml.xyz/2020/06/29/python-xiao-jie-qi/"/>
-    <id>https://xxml.xyz/2020/06/29/python-xiao-jie-qi/</id>
+    <link href="https://maolei.club/2020/06/29/python-xiao-jie-qi/"/>
+    <id>https://maolei.club/2020/06/29/python-xiao-jie-qi/</id>
     <published>2020-06-29T06:34:04.000Z</published>
     <updated>2020-11-27T16:57:42.917Z</updated>
     
@@ -381,17 +364,17 @@
     
     
     
-    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    <category term="Python" scheme="https://maolei.club/categories/Python/"/>
     
     
-    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    <category term="Python" scheme="https://maolei.club/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>python小结(六)</title>
-    <link href="https://xxml.xyz/2020/06/26/python-xiao-jie-liu/"/>
-    <id>https://xxml.xyz/2020/06/26/python-xiao-jie-liu/</id>
+    <link href="https://maolei.club/2020/06/26/python-xiao-jie-liu/"/>
+    <id>https://maolei.club/2020/06/26/python-xiao-jie-liu/</id>
     <published>2020-06-26T06:34:04.000Z</published>
     <updated>2020-11-27T16:57:42.869Z</updated>
     
@@ -406,17 +389,17 @@
     
     
     
-    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    <category term="Python" scheme="https://maolei.club/categories/Python/"/>
     
     
-    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    <category term="Python" scheme="https://maolei.club/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>python小结(五)</title>
-    <link href="https://xxml.xyz/2020/06/25/python-xiao-jie-wu/"/>
-    <id>https://xxml.xyz/2020/06/25/python-xiao-jie-wu/</id>
+    <link href="https://maolei.club/2020/06/25/python-xiao-jie-wu/"/>
+    <id>https://maolei.club/2020/06/25/python-xiao-jie-wu/</id>
     <published>2020-06-25T06:34:04.000Z</published>
     <updated>2020-11-27T16:57:43.013Z</updated>
     
@@ -431,17 +414,17 @@
     
     
     
-    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    <category term="Python" scheme="https://maolei.club/categories/Python/"/>
     
     
-    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    <category term="Python" scheme="https://maolei.club/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>python小结(四)</title>
-    <link href="https://xxml.xyz/2020/06/24/python-xiao-jie-si/"/>
-    <id>https://xxml.xyz/2020/06/24/python-xiao-jie-si/</id>
+    <link href="https://maolei.club/2020/06/24/python-xiao-jie-si/"/>
+    <id>https://maolei.club/2020/06/24/python-xiao-jie-si/</id>
     <published>2020-06-24T06:34:04.000Z</published>
     <updated>2020-11-27T16:57:42.985Z</updated>
     
@@ -456,17 +439,17 @@
     
     
     
-    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    <category term="Python" scheme="https://maolei.club/categories/Python/"/>
     
     
-    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    <category term="Python" scheme="https://maolei.club/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>python小结(三)</title>
-    <link href="https://xxml.xyz/2020/06/22/python-xiao-jie-san/"/>
-    <id>https://xxml.xyz/2020/06/22/python-xiao-jie-san/</id>
+    <link href="https://maolei.club/2020/06/22/python-xiao-jie-san/"/>
+    <id>https://maolei.club/2020/06/22/python-xiao-jie-san/</id>
     <published>2020-06-22T06:34:04.000Z</published>
     <updated>2020-11-27T16:57:42.953Z</updated>
     
@@ -481,10 +464,35 @@
     
     
     
-    <category term="Python" scheme="https://xxml.xyz/categories/Python/"/>
+    <category term="Python" scheme="https://maolei.club/categories/Python/"/>
     
     
-    <category term="Python" scheme="https://xxml.xyz/tags/Python/"/>
+    <category term="Python" scheme="https://maolei.club/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python小结(二)</title>
+    <link href="https://maolei.club/2020/06/21/python-xiao-jie-er/"/>
+    <id>https://maolei.club/2020/06/21/python-xiao-jie-er/</id>
+    <published>2020-06-21T06:34:04.000Z</published>
+    <updated>2020-11-27T16:57:42.837Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;python小结-二&quot;&gt;&lt;a href=&quot;#python小结-二&quot; class=&quot;headerlink&quot; title=&quot;python小结(二)&quot;&gt;&lt;/a&gt;python小结(二)&lt;/h1&gt;&lt;h1 id=&quot;语言特性和编码规范&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://maolei.club/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://maolei.club/tags/Python/"/>
     
   </entry>
   
